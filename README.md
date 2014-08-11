@@ -2,8 +2,7 @@
 
 **Lapor** merupakan repository untuk pelaporan hama  [TeaLinuxOS](http://tealinuxos.org) secara umum. Untuk aplikasi tertentu, silahkan laporkan pada repo masing-masing. Pelaporan menggunakan fitur Issues yang ada pada [Github](http://github.com). Penggunaan Github karena memudahkan pengembang & pengguna dalam menyelesaikan & melaporkan suatu hama.
 
-
-***
+- - -
 
 ### Cara melaporkan Hama 
 
@@ -12,7 +11,7 @@
 3. Pastikan sudah menggunakan TeaLinuxOS versi terbaru. 
 4. Memberi label pada setiap Hama yang dilaporkan. (label bisa dilihat [di sini](https://github.com/tealinuxos/lapor/labels))
 
-***
+- - -
 
 ### Komponen pelaporan Hama yang baik
 
@@ -30,8 +29,12 @@
 	* Yang muncul : Tidak muncul apa-apa
 * Error : Tidak terdapat error
 
-***
+- - -
 
 ### Lain-lain
 
 Untuk usul fitur, pertanyaan dan lainnya selain Hama. Tidak harus menggunakan contoh diatas. 
+
+- - -
+
+Cara melapor dan komponen bug disadur dari [bertzzie.com](http://bertzzie.com/knowledge/teknologi-kolaborasi/6-Trello.html)
