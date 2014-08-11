@@ -21,18 +21,14 @@
 * Langkah pembuatan Hama yang jelas
 * Kode error jika terdapat error 
 
-    ### 
-    Contoh:
-    
-    Ringkasan : Saat ingin memperbarui aplikasi, Update manager gagal dibuka
-    
-    Langkah : 
-        * Klik Tea menu --> System Tools --> Update manager
-        * Diharapkan : Muncul tampilan update manager
-        * Yang muncul : Tidak muncul apa-apa
-    
-    Error : Tidak ada kode error,
+#### Contoh
 
+* Ringkasan : Saat ingin memperbarui aplikasi, Update manager gagal dibuka
+* Langkah : 
+	* Klik Tea menu --> System Tools --> Update manager
+	* Diharapkan : Muncul tampilan update manager
+	* Yang muncul : Tidak muncul apa-apa
+* Error : Tidak terdapat error
 
 ***
 
