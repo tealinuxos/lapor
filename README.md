@@ -24,15 +24,14 @@
     ### 
     Contoh:
     
-    **Ringkasan : **Saat ingin memperbarui aplikasi, Update manager gagal dibuka
+    Ringkasan : Saat ingin memperbarui aplikasi, Update manager gagal dibuka
     
-    **Langkah : ** 
+    Langkah : 
         * Klik Tea menu --> System Tools --> Update manager
         * Diharapkan : Muncul tampilan update manager
         * Yang muncul : Tidak muncul apa-apa
     
-    **Error : ** 
-    Tidak ada kode error,
+    Error : Tidak ada kode error,
 
 
 ***
